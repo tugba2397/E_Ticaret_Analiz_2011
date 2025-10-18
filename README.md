@@ -79,7 +79,7 @@ Bu analiz, ham veriden nihai görsellere ulaşana kadar aşağıdaki aşamaları
 
 Bu proje, **Tuğba Demir** tarafından geliştirilmiştir.
 
-* **E-posta:** **demitugba490@gmail.com**
+* **E-posta:** **demirtugba490@gmail.com**
 
 
 ---
