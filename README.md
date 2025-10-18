@@ -13,6 +13,7 @@ Bu analiz ile şunlar hedeflenmiştir:
 
 -   **Dosya:** `Online_Retail.csv`
 -   **Kaynak (Kaggle):** [Online Retail Dataset by Bojan Tunguz](https://www.kaggle.com/datasets/tunguz/online-retail)
+-   **Veri Seti Konumu:** Dosya büyüklüğü nedeniyle, veri seti ZIP formatında (`Online_Retail_VeriSeti.zip` adıyla) bu depoya yüklenmiştir.
 -   **Kapsam:** 01/12/2010 - 09/12/2011 tarihleri arasında İngiltere merkezli çevrim içi perakende satış kayıtları
 -   **Kullanılan Sütunlar:**
     -   `InvoiceDate` → Satış tarihi
